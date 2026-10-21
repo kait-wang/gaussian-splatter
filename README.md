@@ -1,4 +1,4 @@
-# Gaussian Splatting
+# Gaussian Splatter
 
 Implementation of a differentiable Gaussian splatting pipeline for fitting 2D images and reconstructing a 3D scene from posed images. Includes adaptive densification, alpha compositing, camera projection, and PSNR evaluation.
 
